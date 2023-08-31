@@ -1,7 +1,7 @@
 const { WebcastPushConnection } = require('tiktok-live-connector');
 const say = require('say');
 
-let tiktokLiveConnection = new WebcastPushConnection('@jailexuwu', {
+let tiktokLiveConnection = new WebcastPushConnection('@USUARIO', {
   processInitialData: false,
   enableExtendedGiftInfo: true,
   enableWebsocketUpgrade: true,
